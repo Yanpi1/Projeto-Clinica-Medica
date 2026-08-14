@@ -1,0 +1,19 @@
+# Dependências e builds do frontend
+frontend/node_modules/
+frontend/dist/
+
+# Build do Maven
+backend/target/
+
+# IDEs e sistema operacional
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+
+# Logs e variáveis locais
+*.log
+.env
+.env.*
+!.env.example
